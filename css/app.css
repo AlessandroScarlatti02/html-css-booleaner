@@ -1,0 +1,80 @@
+body {
+    margin: 0px;
+}
+
+header h1 {
+    margin: 0px;
+    padding: 15px;
+    padding-left: 6%;
+}
+
+header {
+    background-color: rgb(158, 226, 253);
+    margin-top: 0px;
+    background-image: url(../img/pattern.png);
+    /* background-position: center; */
+    background-size: 17%;
+}
+
+main {
+    margin: 0% 10%;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(33, 74, 121);
+    margin-top: 30px;
+}
+
+footer p {
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    font-size: 12 px;
+}
+
+h1 {
+    font-stretch: expanded;
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+
+.author {
+    margin-top: 0px;
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(58, 171, 241);
+}
+
+article ul {
+    margin-top: 0px;
+    list-style: none;
+    padding: 0px;
+}
+
+mark {
+    background-color: rgb(255, 240, 0);
+}
+
+ul {
+    padding-left: 15px;
+}
+
+
+th {
+    background-color: lightskyblue;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+}
+
+.tabble1-2cells {
+    width: 20%;
+}
+
+tr:nth-child(odd) {
+    background-color: rgba(186, 218, 238, 0.3);
+}
