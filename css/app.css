@@ -4,13 +4,12 @@ body {
 
 
 
-header h1 {
-    margin: 0px;
-    /* padding: 15px; */
-    padding-left: 6%;
-    font-family: "Rhodium Libre", serif;
-    color: white;
-    font-size: 25px;
+header img {
+    width: 15%;
+    height: 15%;
+    padding-left: 10%;
+    padding-top: 20px;
+    padding-bottom: 20xp;
 }
 
 header {
